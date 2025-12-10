@@ -34,7 +34,7 @@ robot-login-test/
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/kongarad/ROBOT-FRAMEWORK.git 
+   git clone https://github.com/Kongarad/Robot-Framework
    cd robot-login-test
    ```
 
